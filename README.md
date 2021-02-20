@@ -13,7 +13,7 @@ const hakkisabah = {
   tools: [VUE.js, Nuxt.js, Node.js, Vuetify, Mocha, Jest, CodeceptJS, Docker],
   systems: [
     {
-      aws: ["CloudFront", "S3", "Certificate Manager", "EC2"],
+      aws: ["CloudFront", "S3", "Certificate Manager", "EC2","Lambda"],
       servers: {
         ubuntu: [16, 18, 20],
         centos: [7, 8],
