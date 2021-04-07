@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 [comment]: <> (- 🔭 I’m currently working on ...)
-🌱 I’m currently learning with <a href="https://github.com/Kodluyoruz">Kodluyoruz</a> Izmir <a href="https://github.com/atolye15">Atölye15</a> JavaScript Bootcamp !
 
 - [![Twitter: hakkisabah](https://img.shields.io/twitter/follow/hakkisabah?style=social)](https://twitter.com/hakkisabah)
 - [![Linkedin: hakkisabah](https://img.shields.io/badge/-hakkisabah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hakkisabah/)](https://www.linkedin.com/in/hakkisabah/)
