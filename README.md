@@ -20,7 +20,7 @@
           Base: ["JavaScript", "PHP"],
           Frameworks: ["Nuxt.js", "Node.js", "CodeIgniter"],
         },
-        DD: { Framwworks: ["Mocha", "Jest", "CodeceptJS"] },
+        DD: { Frameworks: ["Mocha", "Jest", "CodeceptJS"] },
         DevOps: {
           servers: ["Ubuntu", "Centos"],
           containerization: ["Docker", "Serverless"],
