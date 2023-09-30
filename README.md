@@ -2,7 +2,6 @@
 
 [comment]: <> (- 🔭 I’m currently working on ...)
 
-- [![Twitter: hakkisabah](https://img.shields.io/twitter/follow/hakkisabah?style=social)](https://twitter.com/hakkisabah)
 - [![Linkedin: hakkisabah](https://img.shields.io/badge/-hakkisabah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hakkisabah/)](https://www.linkedin.com/in/hakkisabah/)
 
 ```javascript
