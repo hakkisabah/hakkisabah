@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-[comment]: <> (- 🔭 I’m currently working on ...)
-
-- [![Linkedin: hakkisabah](https://img.shields.io/badge/-hakkisabah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hakkisabah/)](https://www.linkedin.com/in/hakkisabah/)
-
 ```javascript
       const hakkisabah = {
         pronouns: "he" | "him",
@@ -30,18 +26,8 @@
       };
 ```
 
-[comment]: <> ([![GitHub hakkisabah]&#40;https://img.shields.io/github/followers/hakkisabah?label=follow&style=social&#41;]&#40;https://github.com/hakkisabah&#41;)
-
-[comment]: <> (- 👯 I’m looking to collaborate on ...)
-
-[comment]: <> (- 🤔 I’m looking for help with ...)
-
-[comment]: <> (- 💬 Ask me about ...)
-
-[comment]: <> (- 📫 How to reach me: ...)
-
-[comment]: <> (- 😄 Pronouns: ...)
-
-[comment]: <> (- ⚡ Fun fact: ...)
+<div align="center">
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakkisabah&layout=compact&theme=github_dark&hide_border=true)](https://github.com/hakkisabah)
 
 ![snake svg](https://github.com/hakkisabah/hakkisabah/blob/output/github-contribution-grid-snake.svg)
